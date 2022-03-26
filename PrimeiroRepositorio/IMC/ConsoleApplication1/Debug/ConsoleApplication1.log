@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+D:\PrimeiroRepositorio\IMC\ConsoleApplication1\ConsoleApplication1.cpp(27,19): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\PrimeiroRepositorio\IMC\ConsoleApplication1\ConsoleApplication1.cpp(31,17): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\PrimeiroRepositorio\IMC\ConsoleApplication1\ConsoleApplication1.cpp(35,17): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\PrimeiroRepositorio\IMC\ConsoleApplication1\ConsoleApplication1.cpp(39,17): warning C4804: '<=': unsafe use of type 'bool' in operation
+  ConsoleApplication1.vcxproj -> D:\PrimeiroRepositorio\IMC\Debug\ConsoleApplication1.exe
